@@ -9,3 +9,4 @@ Base commit 06 - minor update
 Base commit 07 - adjust config
 Base commit 08 - refine logic
 Base commit 09 - system check
+Base commit 10 - deploy test
