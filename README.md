@@ -89,3 +89,4 @@ Base commit 86 - optimize module
 Base commit 87 - adjust logic
 Base commit 88 - rebuild config
 Base commit 89 - fix bug
+Base commit 90 - sync finalize
