@@ -24,3 +24,4 @@ Base commit 21 - sync update
 Base commit 22 - rebuild index
 Base commit 23 - adjust layout
 Base commit 24 - patch system
+Base commit 25 - tweak config
