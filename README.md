@@ -87,3 +87,4 @@ Base commit 84 - update core
 Base commit 85 - patch cycle
 Base commit 86 - optimize module
 Base commit 87 - adjust logic
+Base commit 88 - rebuild config
