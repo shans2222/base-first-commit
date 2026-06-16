@@ -54,3 +54,4 @@ Base commit 51 - new cycle start
 Base commit 52 - update pipeline
 Base commit 53 - fix minor bug
 Base commit 54 - improve logic flow
+Base commit 55 - adjust parameters
