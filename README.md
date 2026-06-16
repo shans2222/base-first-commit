@@ -83,3 +83,4 @@ Base commit 80 - final optimization
 Base commit 81 - validation pass
 Base commit 82 - fix sync issue
 Base commit 83 - improve structure
+Base commit 84 - update core
